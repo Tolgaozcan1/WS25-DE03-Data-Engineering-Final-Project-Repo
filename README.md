@@ -1,10 +1,9 @@
 ## Disaster Relief Resources Optimization
 
-![Python](https://img.shields.io/badge/Python-3.14+-blue)
-![Airflow](https://img.shields.io/badge/Apache-Airflow%202.9.7-orange)
+[![Python](https://img.shields.io/badge/Python-3.14%20.pyfiles-blue)](src/)
+[![Airflow](https://img.shields.io/badge/Apache-Airflow%20dags-orange)](dags/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
-[![Data](https://img.shields.io/badge/data-%20listings-yellow)](data/)
-![Field](https://img.shields.io/badge/Field-Data%20Science-purple)
+[![Figures&Tables](https://img.shields.io/badge/Field-Data%20Science-purple)](Figures_and_Tables/)
 
 Group: WS25-DE3
 Repository: https://github.com/Tolgaozcan1/Data-Engineering-Final-Project-Repo
