@@ -81,22 +81,23 @@ WS25-DE03-Data-Engineering-Final-Project-Repo/
 ├── 📁 Figures_and_Tables/      # Analysis outputs and visualizations
 │   ├── 📁 Figures/              # Visual outputs (charts, maps, diagrams)
 │   │   ├── Fig-Airflow_Disaster_releif_pipeline.pdf  # Apache Airflow workflow orchestration visualization
-│   │   ├── RQ1_Fig1.pdf         # Research Question 1 visualization
-│   │   ├── RQ2_Fig1.pdf         # Research Question 2 visualization
-│   │   ├── RQ3_Fig1.pdf         # Research Question 3 visualization
-│   │   ├── RQ4_Fig1.pdf         # Research Question 4 visualization
-│   │   ├── priority_disasters_real_map.pdf # Distribution of Disasters scale regarding countries
-│   │   ├── priority_disasters_world_map.pdf # High Priority Disasters
-│   │   ├── rq3_feature_importance.pdf # Top priority features
+│   │   ├── RQ1_Fig1.pdf         # Disaster-Population Data Match Rate
+│   │   ├── RQ2_Fig1.pdf         # ML vs Traditional Method Comparison
+│   │   ├── RQ3_Fig1.pdf         # Top 10 Predictive Features for Disaster Priority
+│   │   ├── RQ3_Fig2.pdf         # Top priority features
+│   │   ├── RQ4_Fig1.pdf         # Disaster-Specific Model Performance vs Specific vs Universal Models
+│   │   ├── RQ4_Fig2.pdf         # Distribution of Disasters scale regarding countries
+│   │   ├── RQ4_Fig3.pdf         # High Priority Disasters
 │   │  
 │   └── 📁 Tables/               # Data tables and statistical outputs
-│       ├── Country_Response_Recommendations.xlsx # Critical high-priority countries
-│       ├── Disaster_Type_Impact_Analysis.xlsx # Most Affecting Disasters and their effects
-│       ├── Seasonal_Disaster_Patterns.xlsx # Disaster pattern by Seasons 
-│       ├── Top10_Vulnerable_Countries.xlsx # Vulnerable countries regarding risk score and casualties
-│       ├── country_disaster_totals.csv  #  Total damage by disasters to the countries
-│       └── country_priority_statistics.csv # Countries' statistics of vulnerability
-│
+│       ├── RQ1_Table1.xlsx      # Critical high-priority countries
+│       ├── RQ1_Table2.csv       # Total damage by disasters to the countries
+│       ├── RQ2_Table2.xlsx      # Disaster pattern by Seasons 
+│       ├── RQ3_Table1.xlsx      # Most Affecting Disasters and their effects
+│       ├── RQ4_Table1.xlsx      # Vulnerable countries regarding risk score and casualties
+│       └── RQ4_Table2.csv       # Countries' statistics of vulnerability
+│       
+|    
 ├── 📁 dags/                     # Apache Airflow workflow orchestration
 │   └── disaster_project_pipeline.py  # 7-stage automated ETL pipeline
 │
