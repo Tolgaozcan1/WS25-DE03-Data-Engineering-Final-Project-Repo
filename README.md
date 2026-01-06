@@ -6,7 +6,7 @@
 [![Figures&Tables](https://img.shields.io/badge/Figures&Tables-purple)](Figures_and_Tables/)
 
 Group: WS25-DE3
-Repository: https://github.com/Tolgaozcan1/Data-Engineering-Final-Project-Repo
+Repository: https://github.com/WS25-DE03-Tolgaozcan1/Data-Engineering-Final-Project-Repo
 
 ## Member	Role	Contribution
 Tolga Ozcan -->	Technical Lead
