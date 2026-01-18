@@ -80,7 +80,7 @@ text
 WS25-DE03-Data-Engineering-Final-Project-Repo/
 ├── 📁 Figures_and_Tables/      # Analysis outputs and visualizations
 │   ├── 📁 Figures/              # Visual outputs (charts, maps, diagrams)
-│   │   ├── Fig-Airflow_Disaster_releif_pipeline.pdf  # Apache Airflow workflow orchestration visualization
+│   │   ├── Disaster_releif_pipeline_graph.pdf  # Apache Airflow workflow orchestration visualization
 │   │   ├── RQ1_Fig1.pdf         # Disaster-Population Data Match Rate
 │   │   ├── RQ2_Fig1.pdf         # ML vs Traditional Method Comparison
 │   │   ├── RQ3_Fig1.pdf         # Top 10 Predictive Features for Disaster Priority
