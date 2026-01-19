@@ -200,7 +200,7 @@ Local Airflow Setup
 ```
 ```
 1. Install Airflow
-pip install apache-airflow==2.9.7
+pip install apache-airflow==3.0.6
 
 2. Initialize
 export AIRFLOW_HOME=$(pwd)/airflow_home
